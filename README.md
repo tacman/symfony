@@ -17,7 +17,7 @@ Installation
 Sponsor
 -------
 
-Symfony 7.1 is [backed][27] by
+Symfony 7.2 is [backed][27] by
 - [Rector][29]
 - [JoliCode][30]
 - [Les-Tilleuls.coop][31]
